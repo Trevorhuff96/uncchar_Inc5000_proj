@@ -1,0 +1,16 @@
+PROJECT PLAN 
+
+Datasets used:
+10 year full list of America's top 5000
+2016,2017,2018 Europe top 5000
+
+
+Visualization ideas:
+Line graphs of industry growth within each year
+Scatter plots as well 
+Company size as it relates to revenue/growth
+	-Top x companies, employee size to reveue/growth
+Companies that appear more than once, track the changes for that company
+	-Track the companies that appear more than once
+
+

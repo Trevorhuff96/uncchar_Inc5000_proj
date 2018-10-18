@@ -18,10 +18,15 @@ Data Cleansing:
 
 
 Visualization ideas:
-- Scatter plots of revenue vs growth to see how spread companies are in terms of growth and current revenu
-- Strip plot scatter plot of the growth per industry. Compare us to europe
-- Heat map that shows where the greatest number of companies are located that appear in the top 5000 over the course
+What correlation does growth have to revenue?
+	- Scatter plot of revenue vs growth to see how spread European companies are in terms of growth and current revenue
+	- Scatter plot of revenue vs growth to see how spread United States companies are in terms of growth and current revenue
+	- Strip plot scatter plot of the growth per industry: United States 
+	- Strip plot scatter plot of the growth per industry: Europe
+Are fastest growing companies relatively concentrated in certain areas?
+	- Heat map that shows where the greatest number of companies are located that appear in the top 5000 over the course
 	of 11 years (2007-2018)
+What Industries are doing better(revenue) in United States than Europe?
 - Double bar graph that compares key industries' revenue over the course of 2016-2018
 
 

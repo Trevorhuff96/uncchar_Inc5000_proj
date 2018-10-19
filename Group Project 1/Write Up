@@ -1,0 +1,42 @@
+Datasets used:
+- Inc5000 US Fastest Growing Companies 2007-2017
+- Inc5000 US Fastest Growing Companies 2018
+- Inc5000 Europe Fastest Growing Companies 2016
+- Inc5000 Europe Fastest Growing Companies 2017
+- Inc5000 Europe Fastest Growing Companies 2018
+
+ Data Cleansing:
+- Find blanks in each csv and determine if rows are needed
+- Blank idustry fields - research companies and determine correct industry
+- Standardize the column names across all csvs
+- Drop unwanted columns 
+- Concact the csvs into a single US DatFrame and a single European DataFrame
+
+
+ Visualizations:
+1. What correlation does growth have to revenue?
+	- Scatter plot of revenue vs growth to see how spread European companies are in terms of growth and current revenue
+	- Scatter plot of revenue vs growth to see how spread United States companies are in terms of growth and current revenue
+		- These graphs show the spread of revenue totals and their accompanying growth rates per company. The main insight 
+		  how European companies that made this list had a higher probability and chance of having both moderately high
+		  revenue as well as a realatively high growth percentage year over year
+		  
+	- Strip plot scatter plot of the growth per industry: United States 
+	- Strip plot scatter plot of the growth per industry: Europe
+		- These graphs showed the revenue totals per company per industry. They helped visualize outliers within an industry.
+		  The insight for these graphs was pointing out the giant outliers in both datasets. Health in the US had a large outlier
+		  (HCA) and Europe had a large financial industry company. 
+		  In general, in Europe, the companies had more spread in the level of revenue that across all industries. 
+	
+2. Are fastest growing companies relatively concentrated in certain areas?
+	- Heat map that shows where the greatest number of companies are located that appear in the top 5000 over the course
+	of 11 years (2007-2018)
+		- The greatest concentration of companies were displayed to be in NY, TX, FL, CA with smaller but stll significant 
+		concentrations around Chicago, and Atlanta. In general however, the Midwest was well representated contrary to 
+		our preconceptions. 
+		
+3. What industries are doing better(revenue) in United States than Europe?
+	- Double bar graph that compares key industries' revenue over the course of 2016-2018
+		- This graph was really telling how the US compares to Europe across various industries. Health, Energy, and
+		retail really stuck out. Europe was in general out performed by the US across the board but were behind in key areas.
+		
